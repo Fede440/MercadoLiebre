@@ -1,0 +1,33 @@
+*{
+    box-sizing: content-box;
+    background-color: #EAC926;
+}
+body{
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+
+.burger-menu .fas{
+    background-color: #1259c3;
+    color: #ffffff;
+    padding: 1%;
+    border-radius: 5px;
+};
+
+.navbar{
+    font-family: 'roboto';
+}
+
+.titulares p{
+    font-size: 24px;
+}
+.precios p{
+    font-size: 18px;
+}
+.descuentos p{
+    font-size: 16px;
+}
+p{
+    font-size: 16px;
+}
